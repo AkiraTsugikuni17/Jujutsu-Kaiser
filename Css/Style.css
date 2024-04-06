@@ -1,0 +1,515 @@
+/* Define o tamanho da fonte para parágrafos com a classe "texto-grande" */
+.texto-grande {
+    font-size: 40px;
+
+ /* Definindo a cor do texto */
+ color: #ffffff;
+
+ /* Adicionando sombra ao texto */
+ text-shadow: 3px 3px 5px rgba(255, 7, 7, 0.5);
+
+ /* Alterando a cor de fundo do texto */
+ background-color: #3b0000;
+
+    }
+    /* Define o tamanho da fonte para o novo texto com a classe "outro-texto" */
+.outro-texto {
+    font-size: 40px;
+
+ /* Definindo a cor do texto */
+ color: #23d400;
+
+ /* Adicionando sombra ao texto */
+ text-shadow: 3px 3px 5px rgba(144, 255, 134, 0.5);
+
+ /* Alterando a cor de fundo do texto */
+ background-color: #032700;
+
+  }
+  /* Define o tamanho da fonte para parágrafos com a classe "legenda" */
+.legenda {
+    font-size: 25px;
+
+ /* Definindo a cor do texto */
+ color: #1fb801;
+
+ /* Alterando a fonte */
+ font-family: Arial
+
+  }
+  /* Exemplo com ID */
+#Jujutsu {
+    border: 4px solid #160075;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 4px 4px 8px #2f00ff;
+    
+}
+/* Define o tamanho da fonte para parágrafos com a classe "legenda" */
+.Personagens {
+        background-color: #1f0010; /* Substitua pela cor desejada */
+    font-size: 25px;
+
+ /* Definindo a cor do texto */
+ color: #ff008c;
+
+ /* Alterando a fonte */
+ font-family: Arial
+ 
+
+  }
+   /* Estilize a imagem */
+   .imagem {
+    float: left; /* Alinhe a imagem à esquerda para que o texto fique ao lado dela */
+    margin-right: 10px; /* Adicione uma margem à direita da imagem para separá-la do texto */
+ }
+  /* Define o tamanho da fonte para parágrafos com a classe "texto-grande" */
+.tituloPersonagens {
+    font-size: 40px;
+
+ /* Definindo a cor do texto */
+ color: #ffffff;
+
+ /* Adicionando sombra ao texto */
+ text-shadow: 3px 3px 5px rgba(0, 15, 221, 0.5);
+
+ /* Alterando a cor de fundo do texto */
+ background-color: #00013b;
+
+    }
+    /* Define o tamanho da fonte para parágrafos com a classe "legenda" */
+.AparenciaItadori {
+    background-color: #1f000d; /* Substitua pela cor desejada */
+font-size: 25px;
+
+/* Definindo a cor do texto */
+color: #ff0077;
+
+/* Alterando a fonte */
+font-family: Arial
+
+
+}
+/* Define o tamanho da fonte para parágrafos com a classe "texto-grande" */
+.tituloAparenciaItadori {
+    font-size: 40px;
+
+ /* Definindo a cor do texto */
+ color: #ffffff;
+
+ /* Adicionando sombra ao texto */
+ text-shadow: 3px 3px 5px rgba(221, 0, 111, 0.5);
+
+ /* Alterando a cor de fundo do texto */
+ background-color: #3b0020;
+
+    }
+     /* Define o tamanho da fonte para parágrafos com a classe "legenda" */
+.PersonalidadeItadori {
+    background-color: #1f000d; /* Substitua pela cor desejada */
+font-size: 25px;
+
+/* Definindo a cor do texto */
+color: #ff008c;
+
+/* Alterando a fonte */
+font-family: Arial
+
+
+}
+/* Define o tamanho da fonte para parágrafos com a classe "texto-grande" */
+.tituloPersonalidadeItadori {
+    font-size: 40px;
+
+ /* Definindo a cor do texto */
+ color: #ffffff;
+
+ /* Adicionando sombra ao texto */
+ text-shadow: 3px 3px 5px rgba(221, 0, 111, 0.5);
+
+ /* Alterando a cor de fundo do texto */
+ background-color: #3b001d;
+
+    }
+    #meuBotao {
+        width: 150px; /* Largura do botão em pixels */
+        height: 40px; /* Altura do botão em pixels */
+        background-color: #910050; /* Cor de fundo em código hexadecimal (azul) */
+        color: #ffffff; /* Cor do texto em código hexadecimal (branco) */
+        border: 3px solid #300018; /* Borda sólida de 2px de largura e cor azul */
+        border-radius: 10px; /* Cantos arredondados com raio de 10px */
+    }
+   
+
+
+     /* Define o tamanho da fonte para parágrafos com a classe "legenda" */
+.AparenciaMegumi {
+    background-color: #00011f; /* Substitua pela cor desejada */
+font-size: 25px;
+
+/* Definindo a cor do texto */
+color: #1100ff;
+
+/* Alterando a fonte */
+font-family: Arial
+
+
+}
+/* Define o tamanho da fonte para parágrafos com a classe "texto-grande" */
+.tituloAparenciaMegumi {
+    font-size: 40px;
+
+ /* Definindo a cor do texto */
+ color: #ffffff;
+
+ /* Adicionando sombra ao texto */
+ text-shadow: 3px 3px 5px rgba(15, 0, 221, 0.5);
+
+ /* Alterando a cor de fundo do texto */
+ background-color: #04003b;
+
+    }
+     /* Define o tamanho da fonte para parágrafos com a classe "legenda" */
+.PersonalidadeMegumi {
+    background-color: #00021f; /* Substitua pela cor desejada */
+font-size: 25px;
+
+/* Definindo a cor do texto */
+color: #1100ff;
+
+/* Alterando a fonte */
+font-family: Arial
+
+
+}
+/* Define o tamanho da fonte para parágrafos com a classe "texto-grande" */
+.tituloPersonalidadeMegumi {
+    font-size: 40px;
+
+ /* Definindo a cor do texto */
+ color: #ffffff;
+
+ /* Adicionando sombra ao texto */
+ text-shadow: 3px 3px 5px rgba(0, 15, 221, 0.5);
+
+ /* Alterando a cor de fundo do texto */
+ background-color: #09003b;
+
+    }
+    #BotaoMegumi {
+        width: 150px; /* Largura do botão em pixels */
+        height: 40px; /* Altura do botão em pixels */
+        background-color: #0f0091; /* Cor de fundo em código hexadecimal (azul) */
+        color: #ffffff; /* Cor do texto em código hexadecimal (branco) */
+        border: 3px solid #050030; /* Borda sólida de 2px de largura e cor azul */
+        border-radius: 10px; /* Cantos arredondados com raio de 10px */
+    }
+    /* Estilize a imagem */
+   .imagemM {
+    float: left; /* Alinhe a imagem à esquerda para que o texto fique ao lado dela */
+    margin-right: 10px; /* Adicione uma margem à direita da imagem para separá-la do texto */
+ }
+ /* Define o tamanho da fonte para parágrafos com a classe "legenda" */
+.Megumi {
+    background-color: #03001f; /* Substitua pela cor desejada */
+font-size: 25px;
+
+/* Definindo a cor do texto */
+color: #1100ff;
+
+/* Alterando a fonte */
+font-family: Arial
+
+}
+/* Define o tamanho da fonte para parágrafos com a classe "texto-grande" */
+.tituloP {
+    font-size: 40px;
+
+ /* Definindo a cor do texto */
+ color: #ffffff;
+
+ /* Adicionando sombra ao texto */
+ text-shadow: 3px 3px 5px rgb(114, 114, 114);
+
+}
+
+
+
+/* Define o tamanho da fonte para parágrafos com a classe "legenda" */
+.AparenciaGojo {
+    background-color: #16001f; /* Substitua pela cor desejada */
+font-size: 25px;
+
+/* Definindo a cor do texto */
+color: #b700ff;
+
+/* Alterando a fonte */
+font-family: Arial
+
+
+}
+/* Define o tamanho da fonte para parágrafos com a classe "texto-grande" */
+.tituloAparenciaGojo {
+    font-size: 40px;
+
+ /* Definindo a cor do texto */
+ color: #ffffff;
+
+ /* Adicionando sombra ao texto */
+ text-shadow: 3px 3px 5px rgba(140, 0, 221, 0.5);
+
+ /* Alterando a cor de fundo do texto */
+ background-color: #25003b;
+
+    }
+     /* Define o tamanho da fonte para parágrafos com a classe "legenda" */
+.PersonalidadeGojo {
+    background-color: #15001f; /* Substitua pela cor desejada */
+font-size: 25px;
+
+/* Definindo a cor do texto */
+color: #ae00ff;
+
+/* Alterando a fonte */
+font-family: Arial
+
+
+}
+/* Define o tamanho da fonte para parágrafos com a classe "texto-grande" */
+.tituloPersonalidadeGojo {
+    font-size: 40px;
+
+ /* Definindo a cor do texto */
+ color: #ffffff;
+
+ /* Adicionando sombra ao texto */
+ text-shadow: 3px 3px 5px rgba(140, 0, 221, 0.5);
+
+ /* Alterando a cor de fundo do texto */
+ background-color: #2a003b;
+
+    }
+    #BotaoGojo {
+        width: 150px; /* Largura do botão em pixels */
+        height: 40px; /* Altura do botão em pixels */
+        background-color: #740091; /* Cor de fundo em código hexadecimal (azul) */
+        color: #ffffff; /* Cor do texto em código hexadecimal (branco) */
+        border: 3px solid #210030; /* Borda sólida de 2px de largura e cor azul */
+        border-radius: 10px; /* Cantos arredondados com raio de 10px */
+    }
+    /* Define o tamanho da fonte para parágrafos com a classe "legenda" */
+.Gojo {
+    background-color: #18001f; /* Substitua pela cor desejada */
+font-size: 25px;
+
+/* Definindo a cor do texto */
+color: #9900ff;
+
+/* Alterando a fonte */
+font-family: Arial
+
+}
+
+
+
+/* Define o tamanho da fonte para parágrafos com a classe "legenda" */
+.AparenciaNobara {
+    background-color: #001f1f; /* Substitua pela cor desejada */
+font-size: 25px;
+
+/* Definindo a cor do texto */
+color: #00fff2;
+
+/* Alterando a fonte */
+font-family: Arial
+
+
+}
+/* Define o tamanho da fonte para parágrafos com a classe "texto-grande" */
+.tituloAparenciaNobara {
+    font-size: 40px;
+
+ /* Definindo a cor do texto */
+ color: #ffffff;
+
+ /* Adicionando sombra ao texto */
+ text-shadow: 3px 3px 5px rgba(0, 206, 221, 0.5);
+
+ /* Alterando a cor de fundo do texto */
+ background-color: #003b3b;
+
+    }
+     /* Define o tamanho da fonte para parágrafos com a classe "legenda" */
+.PersonalidadeNobara {
+    background-color: #001e1f; /* Substitua pela cor desejada */
+font-size: 25px;
+
+/* Definindo a cor do texto */
+color: #00fff2;
+
+/* Alterando a fonte */
+font-family: Arial
+
+
+}
+/* Define o tamanho da fonte para parágrafos com a classe "texto-grande" */
+.tituloPersonalidadeNobara {
+    font-size: 40px;
+
+ /* Definindo a cor do texto */
+ color: #ffffff;
+
+ /* Adicionando sombra ao texto */
+ text-shadow: 3px 3px 5px rgba(0, 214, 221, 0.5);
+
+ /* Alterando a cor de fundo do texto */
+ background-color: #003b3b;
+
+    }
+    #BotaoNobara {
+        width: 150px; /* Largura do botão em pixels */
+        height: 40px; /* Altura do botão em pixels */
+        background-color: #009179; /* Cor de fundo em código hexadecimal (azul) */
+        color: #ffffff; /* Cor do texto em código hexadecimal (branco) */
+        border: 3px solid #003030; /* Borda sólida de 2px de largura e cor azul */
+        border-radius: 10px; /* Cantos arredondados com raio de 10px */
+    }
+    /* Define o tamanho da fonte para parágrafos com a classe "legenda" */
+.Nobara {
+    background-color: #001f1f; /* Substitua pela cor desejada */
+font-size: 25px;
+
+/* Definindo a cor do texto */
+color: #00ffff;
+
+/* Alterando a fonte */
+font-family: Arial
+
+}
+
+
+
+/* Define o tamanho da fonte para parágrafos com a classe "legenda" */
+.AparenciaSukuna {
+    background-color: #1f0000; /* Substitua pela cor desejada */
+font-size: 25px;
+
+/* Definindo a cor do texto */
+color: #ff0000;
+
+/* Alterando a fonte */
+font-family: Arial
+
+
+}
+/* Define o tamanho da fonte para parágrafos com a classe "texto-grande" */
+.tituloAparenciaSukuna {
+    font-size: 40px;
+
+ /* Definindo a cor do texto */
+ color: #ffffff;
+
+ /* Adicionando sombra ao texto */
+ text-shadow: 3px 3px 5px rgba(221, 0, 0, 0.5);
+
+ /* Alterando a cor de fundo do texto */
+ background-color: #3b0000;
+
+    }
+     /* Define o tamanho da fonte para parágrafos com a classe "legenda" */
+.PersonalidadeSukuna {
+    background-color: #1f0000; /* Substitua pela cor desejada */
+font-size: 25px;
+
+/* Definindo a cor do texto */
+color: #ff0000;
+
+/* Alterando a fonte */
+font-family: Arial
+
+
+}
+/* Define o tamanho da fonte para parágrafos com a classe "texto-grande" */
+.tituloPersonalidadeSukuna {
+    font-size: 40px;
+
+ /* Definindo a cor do texto */
+ color: #ffffff;
+
+ /* Adicionando sombra ao texto */
+ text-shadow: 3px 3px 5px rgba(221, 0, 0, 0.5);
+
+ /* Alterando a cor de fundo do texto */
+ background-color: #3b0000;
+
+    }
+    #BotaoSukuna {
+        width: 150px; /* Largura do botão em pixels */
+        height: 40px; /* Altura do botão em pixels */
+        background-color: #910000; /* Cor de fundo em código hexadecimal (azul) */
+        color: #ffffff; /* Cor do texto em código hexadecimal (branco) */
+        border: 3px solid #300000; /* Borda sólida de 2px de largura e cor azul */
+        border-radius: 10px; /* Cantos arredondados com raio de 10px */
+    }
+    /* Define o tamanho da fonte para parágrafos com a classe "legenda" */
+.Sukuna {
+    background-color: #1f0000; /* Substitua pela cor desejada */
+font-size: 25px;
+
+/* Definindo a cor do texto */
+color: #ff0000;
+
+/* Alterando a fonte */
+font-family: Arial
+
+}
+
+
+/* Exemplo com ID */
+#Itadori {
+    border: 4px solid #75004e;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 4px 4px 8px #ff00b3;
+    
+}
+
+
+/* Exemplo com ID */
+#Megumi {
+    border: 4px solid #160075;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 4px 4px 8px #2f00ff;
+    
+}
+
+
+/* Exemplo com ID */
+#Gojo {
+    border: 4px solid #5a0075;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 4px 4px 8px #b700ff;
+    
+}
+
+
+/* Exemplo com ID */
+#Nobara {
+    border: 4px solid #006d75;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 4px 4px 8px #00ffff;
+    
+}
+
+
+/* Exemplo com ID */
+#Sukuna {
+    border: 4px solid #750000;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 4px 4px 8px #ff0000;
+    
+}
